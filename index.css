@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    padding: 10;
+    margin: 5px;
+}
+
+.brand {
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.judul_film{
+    font-weight: 500;
+}
+.rating{
+    font-size: smaller;
+
+}
+.tanggal{
+    font-size:small;
+}
